@@ -1,4 +1,4 @@
-#NLW eSports
+# NLW eSports
 
 ![exemploNLW](./img/exemploNLW.png)
 
